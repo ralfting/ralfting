@@ -25,7 +25,6 @@ What I care about in a codebase:
 
 - **One contract, two apps.** The API is described once as an Effect `HttpApi` in a shared package. The web client is generated from it and the server serves it as OpenAPI, so changing an endpoint breaks the web build, not production.
 - **Tested without mocks.** Every service has an in-memory `Layer` beside its HTTP one, which keeps 100 test files and 8 Playwright end-to-end suites fast and honest.
-- **18 bugs, 18 write-ups.** Each non-obvious bug has a root-cause document and the test or lint rule that prevents it from coming back.
 - **Shipped continuously.** Every push to `main` that passes CI migrates Neon and deploys the apps it touched to Vercel. 730 commits so far.
 
 <a href="https://github.com/ralfting/wisepath">
