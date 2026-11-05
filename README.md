@@ -1,6 +1,6 @@
 # Hi, I'm Ralph 👋
 
-**Senior Software Engineer** — Frontend Architecture · Full-stack TypeScript · Effect
+**Senior Software Engineer** · Frontend Architecture · Full-stack TypeScript · Effect
 
 11 years building for the web. I'm a Senior Engineer at [Birdie](https://birdie.ai), working remotely on the
 frontend with React and TypeScript. On my own projects I go full stack: Next.js on the front, NestJS on the
@@ -10,26 +10,26 @@ back, and [Effect](https://effect.website) holding the two together.
 
 ---
 
-## 💡 How I build and work
+## How I build and work
 
-- 🧱 **Types and boundaries that rule out mistakes** — wrong states that don't compile, layers with import
+- **Types and boundaries that rule out mistakes.** Wrong states that don't compile, layers with import
   rules enforced by lint, and an API contract both sides compile against.
-- 🔍 **Root causes over patches** — every non-obvious bug gets a write-up and a test that keeps it fixed.
-- 📝 **Written down, not in my head** — decisions, plans and root causes go in docs, so the team never
+- **Root causes over patches.** Every non-obvious bug gets a write-up and a test that keeps it fixed.
+- **Written down, not in my head.** Decisions, plans and root causes go in docs, so the team never
   depends on my memory.
-- 🌱 **I lead by enabling** — I'd rather prepare the ground and show the way (patterns, tooling, review)
+- **I lead by enabling.** I'd rather prepare the ground and show the way (patterns, tooling, review)
   than impose a rule, so the team owns the practice after I've moved on.
 
-## 🤖 How I work with AI
+## How I work with AI
 
-- 🧭 **Context as code** — architecture rules and past bugs live in versioned files that agents read
+- **Context as code.** Architecture rules and past bugs live in versioned files that agents read
   before changing anything, so their output follows the same standards the team does.
-- ✅ **Guardrails before speed** — every change an agent makes goes through the same tests, lint and
+- **Guardrails before speed.** Every change an agent makes goes through the same tests, lint and
   review as mine. AI speeds up the work; it doesn't lower the bar.
-- 👀 **I own the result** — I use Claude Code daily to explore, implement and review, and the design and
+- **I own the result.** I use Claude Code daily to explore, implement and review, and the design and
   the decision to ship stay with me.
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 ![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
@@ -46,8 +46,8 @@ back, and [Effect](https://effect.website) holding the two together.
 
 ---
 
-## 📫 Beyond code
+## Beyond code
 
-- 📍 Based in Palhoça, Santa Catarina, Brazil.
-- 📹 A few years ago I recorded some videos on frontend for my YouTube channel,
+- Based in Palhoça, Santa Catarina, Brazil.
+- A few years ago I recorded some videos on frontend for my YouTube channel,
   [Wreckit Code](https://www.youtube.com/@WreckitcodeRalph).
