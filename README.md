@@ -2,9 +2,9 @@
 
 **Senior Software Engineer** — Frontend Architecture · Full-stack TypeScript · Effect
 
-11 years building for the web. I'm a Senior Engineer at [Birdie](https://birdie.ai), on the frontend with
-React and TypeScript, from Santa Catarina, Brazil. On my own projects I go full stack: Next.js on the front,
-NestJS on the back, and [Effect](https://effect.website) holding the two together.
+11 years building for the web. I'm a Senior Engineer at [Birdie](https://birdie.ai), working remotely on the
+frontend with React and TypeScript. On my own projects I go full stack: Next.js on the front, NestJS on the
+back, and [Effect](https://effect.website) holding the two together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ralph--effting-informational?style=flat&logo=linkedin&logoColor=white&color=2bbc8a)](https://www.linkedin.com/in/ralph-effting/)
 
